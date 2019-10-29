@@ -1,0 +1,5 @@
+try:
+    commend1
+    commend2
+expect:
+    when something wrong,do this code.
